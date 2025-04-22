@@ -13,15 +13,6 @@ This change made Chatbox unable to display the model's reasoning process. This p
 
 ## Getting Started
 
-### Option 1: Direct Use (Recommended)
-1. Open Chatbox, add a new chat model
-2. Fill in the configuration:
-   - Name: Any (e.g., DeepSeek-R1)
-   - Model: deepseek-ai/DeepSeek-R1
-   - API URL: `https://deepseek2chatbox.dawne.cn/v1`
-   - API Key: Your SiliconFlow API Key (starts with sk-)
-
-### Option 2: Self-deployment
 1. Clone repository
 2. Install dependencies:
    ```bash
