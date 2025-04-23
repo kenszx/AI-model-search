@@ -118,4 +118,4 @@ def chat_completions():
     )
 
 if __name__ == '__main__':
-    app.run(debug=True,host='0.0.0.0', port=9006) 
+    app.run(debug=True,host='0.0.0.0', port=9005) 
